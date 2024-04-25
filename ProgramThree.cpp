@@ -19,5 +19,6 @@ int main()
 
 int Add(int Phy, int math, int eng)
 {
-	return Phy+math+eng;
+	int finalResult = Phy+math+eng;
+	return finalResult;
 }
